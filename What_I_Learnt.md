@@ -1,0 +1,2 @@
+## A brief summary on what did I learn
+Being as a CpE student that has a lot of previous experience with github, I did not learn anything new. With that being said, it is a good time to read through the basics and refresh my memories with the various instructions. As for other things not related to github and git instructions, I did learn on a little about writing markdown. Even though I am not able to fully write without a reference, but it is helpful that I learn some of the basics.
