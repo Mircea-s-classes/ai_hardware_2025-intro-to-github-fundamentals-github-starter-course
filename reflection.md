@@ -1,0 +1,2 @@
+As a quick introduction, my name is Salina. I have prior experience with GitHub from other classes so this assignment was a good refresher on commonly used commands like git push, pull, and commit.
+I am sure if I have any future confusion/troubles with GitHub, I will be sure to reach out and get help!
