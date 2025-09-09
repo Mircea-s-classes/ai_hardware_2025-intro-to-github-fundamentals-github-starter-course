@@ -1,0 +1,18 @@
+
+git add -> stages changes to be used in the next commit
+
+git commit -> documents a set of changes and saves them to local repository
+
+git push -> moves changes to remote repository
+
+git pull -> fetches changes from remote repository and merges them into current branch
+
+git checkout -> switches to a different branch (use -b flag for new branch)
+
+git clone -> copies remote repository onto local machine
+
+git status -> shows current branch with changes and untracked files
+
+git log -> displays commit history
+
+git merge -> integrates commits from the named branch into current branch
