@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Voe8PSUc)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -105,3 +106,37 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+# About Me & Course Reflection
+
+## Course Reflection
+
+### What I Learned
+- **Git basics** like cloning, committing, and pushing.
+- How to collaborate using *branches* and pull requests.
+- Markdown tricks, such as inline code (`git status`) and tables.
+
+### Still Confused About
+1. When to prefer *forks* over branches in a team project.
+2. How to resolve complex merge conflicts.
+
+> "Learning never exhausts the mind." – *Leonardo da Vinci*
+
+## My Profile README
+
+Hi there! I'm **Tajdari**, a learner exploring the world of hardware.
+
+### Current Projects
+- [ ] Build a personal portfolio site
+- [x] Finish the GitHub fundamentals course
+
+### Favorite Hobby
+
+| Hobby | Why I love it |
+|-------|---------------|
+|Reading poems | It is interesting. |
+
+### Course Feedback
+- Loved the hands-on Git practice
+- Would appreciate more examples on merge conflicts
+
+Thanks for reading! :smile:
